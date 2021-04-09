@@ -14,7 +14,7 @@ metrics.info('app_info', 'Application info', version='1.0', app_name='devops-boo
 
 # A List of Dicts to store all of the books
 books = [{
-        "bookTitle": "Learning Docker" ,
+        "bookTitle": "Carly New Book" ,
         "bookImage": "https://itbook.store/img/books/9781784397937.png",
         "bookDescription": "Docker is a next-generation platform for simplifying application containerization life-cycle. Docker allows you to create a robust and resilient environment in which you can generate portable, composable, scalable, and stable application containers.",
         "bookAuthors" : "Pethuru Raj, Jeeva S. Chelladhurai, Vinod Singh"
