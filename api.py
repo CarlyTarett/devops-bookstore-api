@@ -1,6 +1,7 @@
 from flask import Flask
 from flask_restful import Resource, Api, reqparse, abort, marshal, fields
 from flask_cors import CORS
+from prometheus_flask_exporter import RESTfulPrometheusMetrics
 
 # Initialize Flask
 app = Flask(__name__)
