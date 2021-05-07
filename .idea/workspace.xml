@@ -22,16 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6331f2c0-01bf-47ae-8944-b498a1911568" name="Default Changelist" comment="adding in unversioned files">
-      <change afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.circleci/exampleconfig.aws.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.circleci/exampleconfig.azure.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.circleci/exampleconfig.gcp.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_getbooks.py" afterDir="false" />
+    <list default="true" id="6331f2c0-01bf-47ae-8944-b498a1911568" name="Default Changelist" comment="remove line space">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +64,7 @@
       <workItem from="1618568886729" duration="33000" />
       <workItem from="1620377450777" duration="1645000" />
       <workItem from="1620381556438" duration="304000" />
-      <workItem from="1620381870522" duration="1201000" />
+      <workItem from="1620381870522" duration="851000" />
     </task>
     <task id="LOCAL-00001" summary="to make it look like james for argo step">
       <created>1617972909865</created>
@@ -130,14 +122,7 @@
       <option name="project" value="LOCAL" />
       <updated>1620377504137</updated>
     </task>
-    <task id="LOCAL-00009" summary="adding in unversioned files">
-      <created>1620382887459</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1620382887459</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,8 +148,7 @@
     <MESSAGE value="update version" />
     <MESSAGE value="add line space" />
     <MESSAGE value="remove line space" />
-    <MESSAGE value="adding in unversioned files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding in unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove line space" />
   </component>
   <component name="WindowStateProjectService">
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1620381763431">
