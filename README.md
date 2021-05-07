@@ -10,6 +10,8 @@ Currently being built via CircleCI
 
 The instructions assume that you have Python 3 installed.
 
+Update to trigger pipeline
+
 If you do not have `pipenv` installed you'll need to install this first
 
 ```
